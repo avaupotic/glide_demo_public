@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TastyNavigator</string>
+    <string name="tmpString">placeholder</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="nuts">Nuts</string>
+    <string name="lactose">Lactose</string>
+    <string name="gluten">Gluten</string>
+    <string name="add_dish">Add Dish</string>
+    <string name="description">Description</string>
+    <string name="image_link">Image Link</string>
+    <string name="location">Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add_vendor">Add Vendor</string>
+    <string name="edit">Edit</string>
+    <string name="map">Map</string>
+</resources>

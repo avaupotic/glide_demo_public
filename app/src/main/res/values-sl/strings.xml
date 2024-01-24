@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TastyNavigator</string>
+    <string name="tmpString">placeholder</string>
+    <string name="name">Ime</string>
+    <string name="price">Cena</string>
+    <string name="nuts">Oreščki</string>
+    <string name="lactose">Laktoza</string>
+    <string name="gluten">Gluten</string>
+    <string name="add_dish">Nova Jed</string>
+    <string name="description">Opis</string>
+    <string name="image_link">Link Slike</string>
+    <string name="location">Lokacija</string>
+    <string name="latitude">Geo. Širina</string>
+    <string name="longitude">Geo. Dolžina</string>
+    <string name="phone_number">Tel. Št.</string>
+    <string name="add_vendor">"Nov Ponudnik "</string>
+    <string name="edit">Uredi</string>
+    <string name="map">Zemljevid</string>
+</resources>

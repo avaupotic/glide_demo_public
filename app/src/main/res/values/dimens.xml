@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvWidth">150dp</dimen>
+    <dimen name="titleBMargin">20dp</dimen>
+    <dimen name="btnMed">110dp</dimen>
+    <dimen name="btnLMargin">10dp</dimen>
+    <dimen name="btnTextSize">20sp</dimen>
+    <dimen name="bigTextSize">40sp</dimen>
+    <dimen name="medTextSize">20sp</dimen>
+    <dimen name="medMedTextSize">30sp</dimen>
+    <dimen name="smallTextSize">14sp</dimen>
+    <dimen name="btnRadius">50dp</dimen>
+    <dimen name="divHeight">5dp</dimen>
+    <dimen name="divWidth">410dp</dimen>
+
+    <!-- MARGINS -->
+    <dimen name="smallMargin">5dp</dimen>
+    <dimen name="medMargin">15dp</dimen>
+</resources>
